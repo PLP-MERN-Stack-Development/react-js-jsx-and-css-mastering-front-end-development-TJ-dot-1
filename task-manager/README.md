@@ -5,8 +5,8 @@ A modern, responsive task management application built with React, Vite, and Tai
 https://img.shields.io/badge/React-18.2.0-blue
 https://img.shields.io/badge/Vite-5.0.0-purple
 https://img.shields.io/badge/Tailwind-3.3.0-cyan
- Features
- Core Functionality
+✨ Features
+🎯 Core Functionality
 
     Task Management: Create, complete, delete, and filter tasks
 
@@ -16,7 +16,7 @@ https://img.shields.io/badge/Tailwind-3.3.0-cyan
 
     Responsive Design: Works seamlessly on desktop, tablet, and mobile
 
- Advanced Features
+🚀 Advanced Features
 
     API Integration: Fetch and display user data from JSONPlaceholder API
 
@@ -28,7 +28,7 @@ https://img.shields.io/badge/Tailwind-3.3.0-cyan
 
     Component Architecture: Modular, reusable UI components
 
- UI/UX
+🎨 UI/UX
 
     Modern Design: Clean, intuitive interface with smooth animations
 
@@ -38,7 +38,7 @@ https://img.shields.io/badge/Tailwind-3.3.0-cyan
 
     Interactive Elements: Hover effects and transitions
 
- Tech Stack
+🛠 Tech Stack
 
     Frontend: React 18, JSX
 
@@ -54,7 +54,7 @@ https://img.shields.io/badge/Tailwind-3.3.0-cyan
 
     Icons: Unicode emojis and symbols
 
- Installation
+📦 Installation
 Prerequisites
 
 Make sure you have the following installed on your system:
@@ -94,7 +94,7 @@ yarn dev
     Open your browser
     Navigate to http://localhost:5173 to view the application
 
- Project Structure
+🏗 Project Structure
 text
 
 src/
@@ -117,7 +117,7 @@ src/
 ├── main.jsx            # React DOM entry point
 └── index.css           # Global styles and Tailwind imports
 
- Usage Guide
+🎮 Usage Guide
 Task Management
 
     Add Tasks: Use the input field in the Task Manager page
@@ -144,7 +144,7 @@ Theme Customization
 
     Your preference is saved automatically
 
- Customization
+🔧 Customization
 Adding New Components
 
     Create your component in the src/components/ directory
@@ -171,7 +171,7 @@ Adding New Pages
 
     Update the navigation in src/components/Navbar.jsx
 
- Responsive Breakpoints
+📱 Responsive Breakpoints
 
     Mobile: < 768px
 
@@ -179,7 +179,7 @@ Adding New Pages
 
     Desktop: > 1024px
 
- Color Scheme
+🎨 Color Scheme
 Light Mode
 
     Primary: Blue-600
@@ -200,7 +200,7 @@ Dark Mode
 
     Cards: Gray-800
 
- API Integration
+🔌 API Integration
 
 The application integrates with the JSONPlaceholder API to demonstrate:
 
@@ -218,7 +218,7 @@ API Endpoints Used
 
     Query parameters: _page, _limit for pagination
 
- Available Scripts
+🧪 Available Scripts
 bash
 
 # Development
@@ -229,7 +229,7 @@ npm run preview      # Preview production build
 # Code Quality
 npm run lint         # Run ESLint
 
- Deployment
+🚀 Deployment
 Build for Production
 bash
 
@@ -246,7 +246,7 @@ Deployment Options
 
     Traditional Hosting: Upload the dist folder to any web server
 
- Contributing
+🤝 Contributing
 
     Fork the repository
 
@@ -258,7 +258,7 @@ Deployment Options
 
     Open a pull request
 
- Code Guidelines
+📝 Code Guidelines
 
     Use functional components with hooks
 
@@ -272,7 +272,7 @@ Deployment Options
 
     Implement proper error handling
 
- Troubleshooting
+🐛 Troubleshooting
 Common Issues
 
     Port already in use
@@ -299,10 +299,10 @@ npm install
 
         Verify component exports
 
- License
+📄 License
 
 This project is open source and available under the MIT License.
- Acknowledgments
+🙏 Acknowledgments
 
     React - UI library
 
@@ -312,7 +312,7 @@ This project is open source and available under the MIT License.
 
     JSONPlaceholder - Fake API for testing
 
- Support
+📞 Support
 
 If you encounter any issues or have questions:
 
