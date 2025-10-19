@@ -2,6 +2,8 @@ TaskMaster - React Task Management Application
 
 A modern, responsive task management application built with React, Vite, and Tailwind CSS. Features dark mode, local storage persistence, and API integration.
 
+Live link: https://task-master-three-inky.vercel.app/
+
 https://img.shields.io/badge/React-18.2.0-blue
 https://img.shields.io/badge/Vite-5.0.0-purple
 https://img.shields.io/badge/Tailwind-3.3.0-cyan
